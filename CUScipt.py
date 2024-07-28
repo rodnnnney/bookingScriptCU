@@ -23,9 +23,9 @@ if time1 == '2':
 
 
 
-firstname = "Rodney"
-lastname = "Shen"
-cmail = "rodneyshen@cmail.carleton.ca"
+firstname = "FIRST_NAME"
+lastname = "LAST_NAME"
+cmail = "YOUR_CARLETON_EMAIL"
 driver = webdriver.Chrome()
 driver.get("https://library.carleton.ca/services/study-rooms")
 time.sleep(1)
